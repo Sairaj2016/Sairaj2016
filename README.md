@@ -1,9 +1,17 @@
+
+<!-- HACKER TERMINAL BANNER -->
+
 <div align="center">
 
-# Hey, I'm Sairaj 👋
+<h1>👨‍💻 SAIRAJ | DEV TERMINAL</h1>
 
-Welcome to my GitHub profile!
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=39FF14&background=0D1117&vCenter=true&width=650&height=75&lines=%24+whoami;%3E+Sairaj2016;%24+cat+skills.txt;%3E+Python+%7C+C+%7C+AI+%7C+Git;%24+echo+Welcome+to+my+GitHub"
+  alt="Animated hacker terminal"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FF1744&center=true&vCenter=true&width=500&lines=Python+Developer;Learning+GitHub;Building+Cool+Projects" />
+<p><b>Building software. Exploring systems. Learning every day.</b></p>
 
 </div>
+
+---
